@@ -1,0 +1,8 @@
+# 含明文数据库密码，不要提交
+config.ini
+
+# 生成物
+data/
+output/
+__pycache__/
+*.pyc
